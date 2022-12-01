@@ -1,1 +1,1 @@
-Sitemap: https://nmfs-opensci.github.io/NOAA-quarto-simple/sitemap.xml
+Sitemap: https://Kourtney-Burger.github.io/Test-Hardware-Repo/sitemap.xml
